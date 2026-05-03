@@ -1,4 +1,4 @@
-# 🌿 AyurLife – Integrated Ayurvedic & Herbal Medicine Platform
+# 🌿 AyurLife – Integrated Ayurvedic & Herbal Medicine Mobile App
 
 **AyurLife** is a mobile-first, API-driven digital platform designed to modernize and integrate Sri Lanka’s Ayurvedic and herbal medicine ecosystem.  
 The system connects **patients, doctors, herbal suppliers, medicine producers, wellness centers, and administrators** into a single, secure digital solution.
